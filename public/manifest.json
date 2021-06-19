@@ -1,0 +1,8 @@
+{
+  "short_name": "Frontend Editor",
+  "name": "Playment Frontend Developer Hiring Challenge - Frontend Editor",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
